@@ -15,4 +15,3 @@ end
     def add_student(stu_name, grade)
       @roster << "stu_name, grade"
     end
-# roster = School.new
