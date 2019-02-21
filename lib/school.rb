@@ -10,4 +10,4 @@ class School
 
 end
 
-roster = School.new
+# roster = School.new
