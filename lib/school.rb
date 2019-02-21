@@ -10,4 +10,8 @@ class School
 
 end
 
+    def add_student(stu_name)
+        
+
+    end
 # roster = School.new
