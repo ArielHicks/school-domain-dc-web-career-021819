@@ -1,11 +1,9 @@
 # code here!
 class School
 
-  @ROSTER = {}
-
     def initialize(name)
       @name = name
-      @ROSTER << roster
+      @roster = Hash.new
     end
 
 end
