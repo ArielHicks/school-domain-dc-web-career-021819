@@ -1,7 +1,7 @@
 # code here!
 class School
 
-  
+
 
     attr_accessor :name, :roster
 
@@ -13,7 +13,7 @@ class School
 end
 
     def add_student(stu_name, grade)
-      hash[grade] <<
+      hash[grade] << "new_value_for_value_array"
 
     end
 # roster = School.new
