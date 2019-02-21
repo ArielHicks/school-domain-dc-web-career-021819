@@ -13,7 +13,7 @@ class School
 end
 
     def add_student(stu_name, grade)
-      hash[grade] << "new_value_for_value_array"
+      @roster << "new_value_for_value_array"
 
     end
 # roster = School.new
